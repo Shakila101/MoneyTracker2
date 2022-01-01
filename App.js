@@ -9,6 +9,8 @@ import SignUp from './Screens/SignUp';
 import Login from './Screens/Login';
 import Signup2 from './Screens/Signup2';
 
+
+//testing to see something
 function Entrance({ navigation }) {
   return (
     
